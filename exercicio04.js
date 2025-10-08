@@ -1,7 +1,7 @@
 const resultado = document.getElementById('resultado');
 let numero1, numero2, a,b;
 let entradaValida = true;
-while(entradaValida){
+while(entradaValida){ 
     numero1 = parseFloat(prompt('Digite o numero 1:'));
     numero2 = parseFloat(prompt('Digite o numero 2:'));
     a = parseFloat(prompt('Digite o numero a:'));
